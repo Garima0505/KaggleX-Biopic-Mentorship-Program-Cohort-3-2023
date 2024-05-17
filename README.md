@@ -68,6 +68,6 @@ _The top 5 models with the highest accuracies:_
 5. Decision Tree Classifier and Ensemble-Voting Classifier: 88%
 
 ### Project Links
-* 📔 Google Colab Notebook 
-* 📊 Kaggle Notebook
+* 📔 [Google Colab Notebook](https://colab.research.google.com/drive/1X52hazlrJRDl7vkXYX4GY9N9pnyV6mDQ?usp=sharing) 
+* 📊 [Kaggle Notebook](https://www.kaggle.com/code/garimasharma05/analysing-student-performance-based-onlineeducat)
 
