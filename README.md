@@ -17,7 +17,7 @@ Welcome to the **Predicting Student Adaptivity Level in Online Education** proje
 The COVID-19 pandemic has slowed down education for many underprivileged students. Online education is a viable solution, but we need to assess how well students adapt to this mode of learning. This project aims to analyze and predict students' adaptivity levels in online education using a dataset that measures various aspects of their adaptive skills.
 
 ### Data Collection and Understanding
-* **Data Source:** Kaggle Dataset
+* **Data Source:** [Kaggle Dataset](https://www.kaggle.com/datasets/mdmahmudulhasansuzan/students-adaptability-level-in-online-education)
 * **Features:** Gender, Age, Financial Condition, IT Student, Location, Load Shedding, Education Level, Institution Type, Self LMS, Class Duration, Internet Type, Network Type, Device
 * **Target:** Adaptivity Level
 
